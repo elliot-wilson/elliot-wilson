@@ -10,7 +10,7 @@ Current projects:
 * [Poly-Glot](https://github.com/elliot-wilson/poly-glot)
     * Vanilla JavaScript site that generates word puzzles inspired by the New York Time's [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) 🐝 &nbsp;
 * [Beat Match](https://github.com/FarzamA/BeatMatch)
-    * Spotify playlist-generator that uses MongoDB, Express.js, React, and Node.js 🎵 &nbsp;
+    * Spotify playlist-generator that uses MongoDB, Express.js, React/Redux, and Node.js 🎵 &nbsp;
 
 In my spare time, you can catch me training for the NYCRUNS Brooklyn Marathon 🏃 &nbsp; and DJing on the radio at WPRB 🔈 &nbsp;.
 
