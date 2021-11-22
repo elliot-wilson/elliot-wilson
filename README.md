@@ -4,8 +4,6 @@ I'm a software engineer with an unusual journey: I have an academic background i
 
 I love challenging myself, which is why I've become skilled in JavaScript, the MERN stack, and Ruby on Rails. 💻 &nbsp;
 
-I'm a full-stack developer who is just as energized by building RESTful APIs as I am by improving UI/UX through responsive design. 
-
 Current projects:
 * [Wide World](https://github.com/elliot-wilson/WideWorld)
     * single-page clone of Atlas Obscura built with Ruby on Rails, React/Redux, and the Google Maps API 🧭 &nbsp;
