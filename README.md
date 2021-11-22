@@ -1,8 +1,11 @@
 ### Hi there, I'm Elliot! 👋
 
-I'm a software engineer with an unusual journey: I have an academic background in ancient Greek history 🏛️ &nbsp; and archaeology ⛏️&nbsp;, and I've also spent time as a Workday Payroll implementation consultant 👨‍💼 &nbsp;.
+I'm a software engineer who's skilled in JavaScript, React, Redux, MongoDB, and Ruby on Rails 💻 &nbsp;
 
-I love challenging myself, which is why I've become skilled in JavaScript, MongoDB, Express, React / Redux, Node, and Ruby on Rails. 💻 &nbsp;
+I've been on an unusual journey: I have an academic background in ancient Greek history 🏛️ &nbsp; and archaeology ⛏️&nbsp;, and I've also spent time as a Workday Payroll implementation consultant 👨‍💼 &nbsp;
+
+Now, I'm a full-stack developer who is just as energized by building RESTful APIs as I am by improving UI/UX through responsive design 👨‍💻 &nbsp;
+
 
 Current projects:
 * [Wide World](https://github.com/elliot-wilson/WideWorld)
