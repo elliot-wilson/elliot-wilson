@@ -6,9 +6,9 @@ I love challenging myself, which is why I've become skilled in JavaScript, the M
 
 Current projects:
 * [Wide World](https://github.com/elliot-wilson/WideWorld)
-    * single-page clone of Atlas Obscura built with Ruby on Rails, React/Redux, and the Google Maps API 🧭 &nbsp;
+    * single-page clone of [Atlas Obscura](https://www.atlasobscura.com/) built with Ruby on Rails, React/Redux, and the Google Maps API 🧭 &nbsp;
 * [Poly-Glot](https://github.com/elliot-wilson/poly-glot)
-    * Vanilla JavaScript site that generates word puzzles inspired by the New York Time's Spelling Bee 🐝 &nbsp;
+    * Vanilla JavaScript site that generates word puzzles inspired by the New York Time's [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) 🐝 &nbsp;
 * [Beat Match](https://github.com/FarzamA/BeatMatch)
     * Spotify playlist-generator that uses MongoDB, Express.js, React, and Node.js 🎵 &nbsp;
 
