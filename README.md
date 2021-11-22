@@ -2,7 +2,7 @@
 
 I'm a software engineer with an unusual journey: I have an academic background in ancient Greek history 🏛️ &nbsp; and archaeology ⛏️&nbsp;, and I've also spent time as a Workday Payroll implementation consultant 👨‍💼 &nbsp;.
 
-I love challenging myself, which is why I've become skilled in JavaScript, the MERN stack, and Ruby on Rails. 💻 &nbsp;
+I love challenging myself, which is why I've become skilled in JavaScript, MongoDB, Express, React / Redux, Node, and Ruby on Rails. 💻 &nbsp;
 
 Current projects:
 * [Wide World](https://github.com/elliot-wilson/WideWorld)
