@@ -1,4 +1,8 @@
-### Hi there 👋  I'm Elliot!
+### Hi there, I'm Elliot! 👋
+
+I'm a software engineer with an unusual journey: I have an academic background in ancient Greek history 🏛️ and archaeology ⛏️, and I've also spent time as a Workday Payroll implementation consultant 👨‍💼. I love challenging myself, which is why I've become skilled in JavaScript, the MERN stack, and Ruby on Rails. I'm a full-stack developer who is just as energized by building RESTful APIs as I am by improving UI/UX through responsive design.
+
+In my spare time, you can catch me training for the NYCRUNS Brooklyn Marathon and DJing on the radio at WPRB.
 
 <!--
 **elliot-wilson/elliot-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
